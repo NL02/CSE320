@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stat.h": "c",
+        "getopt.h": "c",
+        "browse.h": "c",
+        "time.h": "c",
+        "cstdio": "cpp",
+        "fstream": "cpp",
+        "type_traits": "c"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "protocol.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "client_registry.h": "c",
+        "player.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
